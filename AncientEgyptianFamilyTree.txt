@@ -1,0 +1,5 @@
+MeresankhI:Sneferu
+Sneferu:Khufu,Rahotep,NefermaatI
+Khufu:HetepheresII,Djedefre,Khafre
+Djedefre:Setka,Baka,Neferhetepes,Hernet
+Khafre:Menkaura

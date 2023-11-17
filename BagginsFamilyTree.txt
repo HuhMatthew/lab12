@@ -1,4 +1,4 @@
-Balbo:Mungo,Pansy,Ponto,Largo,Lily
+Balbo:Mungo,Pansy,Ponto,Largo,Lily,NamedIndividual
 Mungo:Bungo,Belba,Longo,Linda,Bingo
 Ponto:Rosa,Polo
 Largo:Fosco
@@ -13,3 +13,6 @@ Ponto2:Angelica
 Fosco:Dora,Drogo,Dudo
 Drogo:Frodo
 Dudo:Daisy
+NamedIndividual:UnnamedMan,UnnamedBoy,UnnamedGirl,UnnamedWoman
+UnnamedMan:Unnamed,John
+UnnamedWoman:Named,Hello
